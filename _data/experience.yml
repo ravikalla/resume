@@ -1,0 +1,36 @@
+# Jobs
+# VP of Global Communications
+- company: Synechron / TIAA
+  position: Cloud Engineer
+  duration: Jan, 2020 &mdash; Present
+  summary: Working as a Solutions Architect with main focus on Cloud Native Development<ul class="resume-item-list"><li>Saved 70% of Testing effort and 30% of Release effort using HVE</li><li>90% reduction in production defects by enabling developers to avoid defects instead of testers detecting them. Developed a custom framework (‘DevQA framework’)</li><li>Used ‘Service Virtualization’ to avoid dependency constraints in development and testing stages</li><li>Developed enterprise scale cloud-native applications using Microservices and Micro Frontends</li></ul>
+
+# Applications Architect
+- company: Synechron / WellsFargo
+  position: Applications Architect
+  duration:  Jul, 2018 &mdash; Dec, 2019
+  summary: Onboarded 50+ LineOfBusiness units to a Tax-Withholding application in 1 year by restructuring a monolith application into microservices. This enabled horizontal scaling and avoided the need of vertical scaling.<ul class="resume-item-list"><li>Reduced transaction latency by eliminating network hops – eliminated webservers dedicated for Authentication by developing custom security framework (in Spring security) to enable Authentication/Authorization inside application server</li><li>Simplified business flow using IBM BPM for complex Tax-Withholding scenarios</li></ul>
+
+# BDD Mentor
+- company: Capgemini / The Hartford Insurance
+  position: BDD Mentor
+  duration:   Apr, 2018  &mdash; Jul, 2018
+  summary: Trained business and IT teams for adopting DevOps and BDD
+
+# Application Architect
+- company: Capgemini / TIAA
+  position: Application Architect
+  duration:   Apr, 2014  &mdash; Apr, 2018
+  summary: <ul class="resume-item-list"><li>Reduced 20% overall testing time by creating a custom TestData Manager tool</li><li>Developed enterprise scale cloud-native applications using Microservices and Micro Frontends</li><li>Simplified DevOps process by integrating Mattermost chat application with Hubot and connecting it to DevOps pipeline. This enabled users to trigger pipelines and view status from chat window directly.</li><li>Defined the cloud strategy for applications to run on ephemeral environments in OpenShift</li><li>Defined ‘QualityGates’ and ‘QualityProfiles’ in Sonar platform</li><li>Defined repository management structure in Artifactory</li></ul>
+
+# DevOps Architect
+- company: Capgemini / AIG
+  position: DevOps Architect
+  duration:   Sep, 2016  &mdash; Mar, 2017
+  summary: <ul class="resume-item-list"><li>Defined the cloud strategy for applications to run on ephemeral environments in PivotalCloudFoundry(PCF)</li><li>Designed Continuous Integration (CI) pipelines with Jenkins and migrated projects based on Java, .NET, PEGA and DuckCreek into it</li><li>Defined GIT branching strategies and helped development teams to adopt GITHUB</li><li>Defined ‘QualityGates’ and ‘QualityProfiles’ in Sonar platform</li><li>Defined repository management structure in Artifactory</li><li>Containerized multiple brown field applications with Docker</li><li>Streamlined Release Management process using ‘CA Release Automation’ tool</li></ul>
+
+# Project Lead
+- company: Infosys / BankOfAmerica
+  position: Project Lead
+  duration:   Jun, 2007  &mdash; Aug, 2014
+  summary: <ul class="resume-item-list"><li>Designed and developed external facing web applications with Java, Oracle ADF framework, JSF, Spring, Struts and Velocity (BankOfAmerica)</li><li>Automated the build and deployment using Ant scripts (BankOfAmerica)</li><li>Trained the development teams in Mexico on Java, Velocity and SDLC (BankOfAmerica)</li></ul>

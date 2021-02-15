@@ -1,0 +1,63 @@
+# Site settings
+title: "Ravi Kalla - Solutions Architect"
+description: "A resume of a Software Engineer with speciality in Microservices and Cloud development"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Ravi Kalla"
+resume_title:                   "Senior Developer | Solutions Architect"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "ravi2523096@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "+1-585-281-9787"
+resume_contact_address:         "Davidson, NC, USA"
+
+resume_header_contact_info:     "Charlotte, NC • 585-281-9787 • ravi2523096@gmail.com"
+display_header_contact_info:    "true"
+
+resume_header_intro: "<p>13+ years experience in cloud native application Architecture, Technical Design, Development, Testing, DevOps and BDD methodology. Started Microservices & HighVelocityEngineering (HVE) in multiple enterprises. AWS Certified Solutions Architect.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+# resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+# resume_section_links:           true
+# resume_section_associations:    false
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/ravikalla/resume"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/ravikalla"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "http://ravikalla.in"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
